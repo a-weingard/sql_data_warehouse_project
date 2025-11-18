@@ -1,2 +1,8 @@
-# sql_data_warehouse_project
-Modernes Data-Warehouse-Projekt mit SQL Server: End-to-End-Implementierung von ETL-Prozessen, Datenmodellierung und analytischen Auswertungen.
+# Data Warehouse and Analitics End-to-End Project
+
+Welcome to the **Data Warehouse and Analitics End-to-End Project** repository!
+
+This project demonstrates a comprehensice data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+
+
+---
