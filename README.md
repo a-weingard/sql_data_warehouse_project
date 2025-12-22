@@ -1,3 +1,5 @@
+PROJECT IN PROGRESS
+
 # Data Warehouse and Analitics End-to-End Project
 
 Welcome to the **Data Warehouse and Analitics End-to-End Project** repository!
